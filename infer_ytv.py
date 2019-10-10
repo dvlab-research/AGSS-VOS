@@ -1,7 +1,4 @@
 import sys
-sys.path.insert(0, '/data/linhj/anaconda2/envs/pytorch3/lib/python3.6/site-packages')
-sys.path.insert(0, '/home/linhj/anaconda2/envs/pytorch3/lib/python3.6/site-packages')
-sys.path.insert(0, '/data/linhj/anaconda2/envs/mypy3/lib/python3.6/site-packages')
 
 import os
 import os.path as osp
