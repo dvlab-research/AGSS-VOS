@@ -98,6 +98,7 @@ sh test_davis_ft.sh
 
 The results will be saved in the 'val_dir' or 'test_dir' folder.
 You can change the '--restore' in scripts to validate your own training result.
+You can also add '--show-img' in scripts to save the visualized image result.
 
 
 #### This software is for Non-commercial Research Purposes only.
