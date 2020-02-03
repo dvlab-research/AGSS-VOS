@@ -54,7 +54,7 @@ checkpoints
 ```
 3. Download [FlowNet2C](https://drive.google.com/file/d/1BFT6b7KgKJC8rA59RmOVAXRM_S7aSfKE/view?usp=sharing) and place it in the 'flow_inference/models/FlowNet2-C_checkpoint.pth.tar'. You need to run
 ```
-sh mask.sh
+sh make.sh
 ```
 in the 'channelnorm_package', 'correlation_package' and 'resample2d_package' in 'flow_inference/networks_flow/' folder. Make sure the version of PyTorch is '0.4.0'.
 
