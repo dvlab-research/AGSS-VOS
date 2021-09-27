@@ -1,4 +1,4 @@
-# AGSS-VOS: Attention Guided Single-Shot Video Object Segmentation
+# AGSS-VOS: Attention Guided Single-Shot Video Object Segmentation ([ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_AGSS-VOS_Attention_Guided_Single-Shot_Video_Object_Segmentation_ICCV_2019_paper.pdf))
 
 ## Prerequisites
 
